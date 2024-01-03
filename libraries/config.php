@@ -178,9 +178,9 @@ $config = array(
 
 );
 
-if ($_SERVER["SERVER_NAME"] == 'goicuoc4gmobifone.com') $config['key'] = '2f3931106578ed4b67ca90a6997d0e4b';
+//if ($_SERVER["SERVER_NAME"] == 'goicuoc4gmobifone.com') $config['key'] = '2f3931106578ed4b67ca90a6997d0e4b';
 
-$config['pattern'] = '111';
+//$config['pattern'] = '111';
 
 /* Error reporting */
 
