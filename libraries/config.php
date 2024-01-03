@@ -20,7 +20,7 @@ define('NN_AUTHOR', 'vienthongtaiphat.it@gmail.com');
 
 $config = array(
 
-	'author' => array(
+	/*'author' => array(
 
 		'name' => 'Đỗ Quang Vinh',
 
@@ -28,13 +28,13 @@ $config = array(
 
 		'timefinish' => date('m/Y', time() - (86400 * 30))
 
-	),
+	),*/
 
 	'arrayDomainSSL' => array(),
 
 	'database' => array(
 
-		'server-name' => $_SERVER["SERVER_NAME"],
+		//'server-name' => $_SERVER["SERVER_NAME"],
 
 		'url' => '/',
 
